@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32a28825-28fb-4a81-92c1-1a3ee8e4b582": {
+      "ProjectGuid": "32a28825-28fb-4a81-92c1-1a3ee8e4b582",
+      "DisplayName": "Design Patterns",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
